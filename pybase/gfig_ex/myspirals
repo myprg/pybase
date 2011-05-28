@@ -1,0 +1,56 @@
+GFIG Version 0.2
+Name: Первый\040Gfig
+Version: 0.000000
+ObjCount: 2
+<OPTIONS>
+GridSpacing: 30
+GridType: RECT_GRID
+DrawGrid: FALSE
+Snap2Grid: FALSE
+LockOnGrid: FALSE
+ShowControl: TRUE
+</OPTIONS>
+<Style Base>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+<SPIRAL BrushName="Circle (11)" Foreground="0 0 0 1" Background="1 1 1 1" FillType=0 PaintType=1 FillOpacity=100 >
+<Style object>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+44 62
+86 79
+<EXTRA>
+4
+</EXTRA>
+</SPIRAL>
+<SPIRAL BrushName="Circle (11)" Foreground="0 0 0 1" Background="1 1 1 1" FillType=0 PaintType=1 FillOpacity=100 >
+<Style object>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+242 143
+313 178
+<EXTRA>
+2
+</EXTRA>
+</SPIRAL>

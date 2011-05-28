@@ -1,0 +1,106 @@
+GFIG Version 0.2
+Name: Первый\040Gfig
+Version: 0.000000
+ObjCount: 6
+<OPTIONS>
+GridSpacing: 30
+GridType: RECT_GRID
+DrawGrid: FALSE
+Snap2Grid: FALSE
+LockOnGrid: FALSE
+ShowControl: TRUE
+</OPTIONS>
+<Style Base>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+<CIRCLE BrushName="Circle (11)" Foreground="0 0 0 1" Background="1 1 1 1" FillType=0 PaintType=1 FillOpacity=100 >
+<Style object>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+257 158
+223 205
+</CIRCLE>
+<CIRCLE BrushName="Circle (11)" Foreground="0 0 0 1" Background="1 1 1 1" FillType=0 PaintType=1 FillOpacity=100 >
+<Style object>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+93 71
+104 92
+</CIRCLE>
+<CIRCLE BrushName="Circle (11)" Foreground="0 0 0 1" Background="1 1 1 1" FillType=0 PaintType=1 FillOpacity=100 >
+<Style object>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+185 67
+171 45
+</CIRCLE>
+<CIRCLE BrushName="Circle (11)" Foreground="0 0 0 1" Background="1 1 1 1" FillType=0 PaintType=1 FillOpacity=100 >
+<Style object>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+72 208
+102 195
+</CIRCLE>
+<RECTANGLE BrushName="Circle (11)" Foreground="0 0 0 1" Background="1 1 1 1" FillType=0 PaintType=1 FillOpacity=100 >
+<Style object>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+48 112
+103 137
+</RECTANGLE>
+<RECTANGLE BrushName="Circle (11)" Foreground="0 0 0 1" Background="1 1 1 1" FillType=0 PaintType=1 FillOpacity=100 >
+<Style object>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+184 230
+131 206
+</RECTANGLE>

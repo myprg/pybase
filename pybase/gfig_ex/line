@@ -1,0 +1,16 @@
+GFIG Version 0.1
+Name: Simly\040face
+Version: 0.000000
+ObjCount: 1
+<OPTIONS>
+GridSpacing: 30
+GridType: RECT_GRID
+DrawGrid: FALSE
+Snap2Grid: FALSE
+LockOnGrid: FALSE
+ShowControl: TRUE
+</OPTIONS>
+<LINE>
+66 150
+66 200
+</LINE>

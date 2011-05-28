@@ -1,0 +1,78 @@
+GFIG Version 0.2
+Name: Первый\040Gfig
+Version: 0.000000
+ObjCount: 4
+<OPTIONS>
+GridSpacing: 30
+GridType: RECT_GRID
+DrawGrid: FALSE
+Snap2Grid: FALSE
+LockOnGrid: FALSE
+ShowControl: TRUE
+</OPTIONS>
+<Style Base>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0 1
+Background: 1 1 1 1
+</Style>
+<ELLIPSE BrushName="Circle (19)" Foreground="1 0 0 1" Background="1 1 1 1" FillType=0 PaintType=1 FillOpacity=100 >
+<Style Object>
+BrushName:      Circle (19)
+PaintType:       1
+FillType:       0
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 1 0 0 1
+Background: 1 1 1 1
+</Style>
+146 133
+166 145
+</ELLIPSE>
+<RECTANGLE BrushName="Circle (03)" Foreground="0 0.78588235294117648 0 1" Background="1 1 1 1" FillType=1 PaintType=1 FillOpacity=100 >
+<Style Object>
+BrushName:      Circle (03)
+PaintType:       1
+FillType:       1
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0.78588235294117648 0 1
+Background: 1 1 1 1
+</Style>
+147 82
+266 230
+</RECTANGLE>
+<RECTANGLE BrushName="Circle (11)" Foreground="0 0 0.68156862745098046 1" Background="0.42784313725490192 1 1 1" FillType=1 PaintType=1 FillOpacity=100 >
+<Style Object>
+BrushName:      Circle (11)
+PaintType:       1
+FillType:       1
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 0 0 0.68156862745098046 1
+Background: 0.42784313725490192 1 1 1
+</Style>
+55 33
+361 16
+</RECTANGLE>
+<ELLIPSE BrushName="Circle (03)" Foreground="1 0 0.92499999999999982 1" Background="1 1 0.20901960784313725 1" FillType=1 PaintType=1 FillOpacity=100 >
+<Style object>
+BrushName:      Circle (03)
+PaintType:       1
+FillType:       1
+FillOpacity:    100
+Pattern:        Pine
+Gradient:       Основной в фоновый (RGB)
+Foreground: 1 0 0.92499999999999982 1
+Background: 1 1 0.20901960784313725 1
+</Style>
+55 145
+36 72
+</ELLIPSE>
